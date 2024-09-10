@@ -1,5 +1,8 @@
+### Developed by : GOWRISANKA P
+### Reg no: 212222230041
+### Date : 
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
-# Date: 
+
 
 
 
